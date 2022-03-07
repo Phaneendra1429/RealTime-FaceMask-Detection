@@ -4,7 +4,10 @@ RealTime FaceMask Detection  using TFOD
 PRE- REQUISITE >>  Tensorflow Object Detection API should  have been installed.
 installation document : https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
 
-
+1)Collecting the images of Mask and No Mask using OpenCV 
+2) Prepare the image labels using LabelImg
+3) Transfer Learning Using SSD MobileNet
+4) Realtime Detections using a webcam and OpenCv
 
 
 
