@@ -1,2 +1,2 @@
-# RealTIme-FaceMask-Detection-
-RealTIme FaceMask Detection  using TFOD
+# RealTime-FaceMask-Detection-
+RealTime FaceMask Detection  using TFOD
