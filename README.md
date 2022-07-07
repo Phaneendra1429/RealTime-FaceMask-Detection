@@ -10,7 +10,7 @@ Prepare the image labels using LabelImg >> LabelImg is a graphical image annotat
 
 Transfer Learning Using SSD MobileNet >> here we have to update the config file based on our custom model and train the custom model and should update the checkpoints after the training.
 
-Realtime Detections using a webcam and OpenCv 
+Realtime Detections using a webcam 
 
 # Demo
 
